@@ -54,6 +54,3 @@ ORDER BY
 -- Запрос 5: Добавление новой записи в таблицу client
 INSERT INTO client (name, inn, tariff_code)
 VALUES ('ООО «Крылатые качели»', '8823710320', 'СТАРТОВЫЙ');
-
--- Дополнительная информация и исходный код находятся в репозитории на GitHub:
--- https://github.com/MvpIncoming/sql-test-queries.git
